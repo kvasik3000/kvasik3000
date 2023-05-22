@@ -19,6 +19,14 @@ I am a student of Novosibirsk State University <img src="https://media.giphy.com
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kvasik3000&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+---
+
 <!--
 **kvasik3000/kvasik3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
