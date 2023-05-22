@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/QqHv.gif" width="100"/>
+  <img src="https://tenor.com/ru/view/kavkazskaja-plennica-nikulin-gif-10073347" width="100"/>
 </div>
 ---
 
