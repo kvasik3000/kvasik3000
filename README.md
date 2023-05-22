@@ -2,13 +2,11 @@
   <img src="https://media.giphy.com/media/Zw3oBUuOlDJ3W/giphy.gif" width="500"/>
 </div>
 ---
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=kvasik3000&style=flat-square&color=blue" alt=""/>
-</div>
----
 
 ### Hi there 👋
 
+---
+### :woman_technologist: About Me :
 <!--
 **kvasik3000/kvasik3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
