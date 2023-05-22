@@ -6,7 +6,9 @@
 ### Hi there 👋
 
 ---
-### :woman_technologist: About Me :
+### :ninja: About Me :
+I am a student of Novosibirsk State University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+
 <!--
 **kvasik3000/kvasik3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
