@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2F%25D0%25BA%25D0%25B2%25D0%25B0%25D1%2581-%25D0%25B7%25D0%25B0%25D0%25BA%25D0%25B0%25D0%25BC%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9-vailes-gif-17801348&psig=AOvVaw2y4h5G7C1iKrTmyIxWWDh1&ust=1684849588751000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIici_yHif8CFQAAAAAdAAAAABAE" width="100"/>
+  <img src="https://media.tenor.com/ihL9NxOIxwwAAAAd/%D0%BA%D0%B2%D0%B0%D1%81-%D0%B7%D0%B0%D0%BA%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B9.gif" width="100"/>
 </div>
 ---
 
