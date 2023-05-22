@@ -1,10 +1,7 @@
-<div class="tenor-gif-embed" data-postid="10073347" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
-  <a href="https://tenor.com/view/kavkazskaja-plennica-nikulin-gif-10073347">кавказскаяпленница ахорошожитьещелучше GIF
-  </a>from <a href="https://tenor.com/search/kavkazskaja+plennica-gifs">Kavkazskaja Plennica GIFs
-  </a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js">
-</script>
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/QqHv.gif)" width="100"/>
+</div>
+---
 ### Hi there 👋
 
 <!--
