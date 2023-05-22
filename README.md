@@ -6,8 +6,17 @@
 ### Hi there 👋
 
 ---
+
 ### :ninja: About Me :
-I am a student of Novosibirsk State University <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="50"> .
+I am a student of Novosibirsk State University <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="50">.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+</div>
 
 <!--
 **kvasik3000/kvasik3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
